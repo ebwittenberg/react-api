@@ -12,8 +12,8 @@ function App() {
         <h1 style={{textAlign: 'center', margin: '0'}}>Weather and Fortune</h1>
         <Weather />
       </div>
-      <div>
-        <h1 style={{textAlign: 'center'}}>Game of Thrones</h1>
+      <div style={{backgroundColor: 'rgb(204, 134, 155)'}}>
+        <h1 style={{textAlign: 'center', margin: '0'}}>Game of Thrones</h1>
         <Thrones />
 
       </div>
